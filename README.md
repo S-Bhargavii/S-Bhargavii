@@ -1,16 +1,16 @@
-## <div align="center">Hi there, I'm Bhargavi 👋</div>
+## <div align="center">Hi, I'm Bhargavi 👋</div>
 
-### <div align="center">💫 About Me</div>
+### <div align="justify">💫 About Me</div>
 
-<div align="center">
+<div align="justify">
 
 I am a Final Year Computer Science Undergraduate at Nanyang Technological University, Singapore and an aspiring software engineer with strong interests in cybersecurity and robotics.
 
 </div>
 
-### <div align="center">💻 Tech Stack</div>
+### <div align="justify">💻 Tech Stack</div>
 
-<div align="center">
+<div align="justify">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,11 +41,11 @@ I am a Final Year Computer Science Undergraduate at Nanyang Technological Univer
 
 ---
 
-### <div align="center">🌐 Socials</div>
+### <div align="justify">🌐 Socials</div>
 
-<div align="center">
+<div align="justify">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunkara-bhargavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunkara-bhargavi)
 
 </div>
 
